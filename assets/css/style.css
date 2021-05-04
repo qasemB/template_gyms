@@ -53,6 +53,14 @@ button {
   padding-top: 0 !important;
   padding-bottom: 0 !important;
 }
+.px_1 {
+  padding-left: 0.5rem !important;
+  padding-right: 0.5rem !important;
+}
+.px_2 {
+  padding-left: 1rem !important;
+  padding-right: 1rem !important;
+}
 
 .text_shadow {
   text-shadow: 0 0 5px black;
